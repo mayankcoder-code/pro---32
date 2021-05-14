@@ -66,5 +66,5 @@ async function getBackgroundImg(){
        }
         
     //load the image in backgroundImg variable here
-      backgroungImg = loadImage(bg);
+      backgroundImg = loadImage(bg);
 }
